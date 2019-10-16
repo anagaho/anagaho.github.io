@@ -23,11 +23,10 @@ Osushi is completely great foods. Ootoro shinuhodo tabetai.
 
 ## Kaerita~i!
 
-### Lagrange
+### Go Home
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+Ouchini kaette takusan nerunoda. 
+Oishi monomo taberunoda.Atsuage toka yaite tabetai.
 
 ### Portfolio Jekyll Theme
 
