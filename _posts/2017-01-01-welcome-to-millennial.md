@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "numu~i"
+title: "nemu~i"
 author: "Anagaho"
 categories: documentation
 tags: [documentation,sample]
