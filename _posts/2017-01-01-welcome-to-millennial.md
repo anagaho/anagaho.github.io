@@ -9,18 +9,19 @@ image: inu.jpg
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-## Tottemo Nemui
+## Tottemo Nemu~i
 
-Sleep is god.
+Takusan neruno ha majide daizi. Suimin daiichidazo.
+
 ## INU kawai~i
 
-Inu(dog) is perfect.
+Inu(dog) is perfect. Inu majide kawai~~~i!
 
 ## Oishi Osushi tabeta~i
 
-Osushi is completely great foods.
+Osushi is completely great foods. Ootoro shinuhodo tabetai.
 
-## More Jekyll!
+## Kaerita~i!
 
 ### Lagrange
 
