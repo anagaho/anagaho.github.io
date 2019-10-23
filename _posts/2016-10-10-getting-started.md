@@ -28,7 +28,7 @@ Millennial is a minimalist Jekyll theme for running a simple, clean, content-foc
 * LaTeX support through [MathJax](https://www.mathjax.org/).
 
 ## Table of Contents
-[http://rubygems.org](#ruby)
+[ruby](http://rubygems.org)
 1. [Introduction](#introduction)
    1. [What is Jekyll](#what-is-jekyll)
    2. [Never Used Jeykll Before?](#never-used-jekyll-before)
