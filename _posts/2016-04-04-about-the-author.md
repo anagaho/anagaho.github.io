@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Ayaka"
 categories: facts
 tags: [sample]
-image: cuba-4.jpg
+image: dgj.jpg
 ---
 
-Onakasuita~
+Hello. I'm a japanese hungry woman.I like sushi, steak, atsuage, and any foods so much. but I'm not just interesting in foods. I love Takarazuka musical.This picture is view of "Hana-no-michi"(meaning flower load) in Takarazuka. You can see Takarazuka grand theatre in this picture.
